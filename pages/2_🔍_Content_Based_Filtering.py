@@ -6,10 +6,6 @@ import base64
 import warnings
 warnings.filterwarnings("ignore")
 
-from st_clickable_images import clickable_images
-# from st_click_detector import click_detector
-
-
 
 ############################################################################################
 
